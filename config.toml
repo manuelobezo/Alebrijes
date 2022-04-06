@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://boisterous-moxie-df3c98.netlify.app/'
 languageCode = 'en-us'
 title = 'Mi Primer Sitio con SSGs'
 copyright = 'JOSE MANUEL GARCIA OBEZO'
