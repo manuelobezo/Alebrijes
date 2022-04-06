@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Mi Primer Sitio con SSGs'
+copyright = 'JOSE MANUEL GARCIA OBEZO'
+theme = "ananke"

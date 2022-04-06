@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Mi Primer Sitio con SSGs</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Articles on Mi Primer Sitio con SSGs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to the blog</title>
+      <link>http://example.org/post/my-first-post/</link>
+      <pubDate>Tue, 05 Apr 2022 22:45:17 -0500</pubDate>
+      
+      <guid>http://example.org/post/my-first-post/</guid>
+      <description>We are delighted to be able to inform the reader about this blog. In this site you will found all the information related with the alebrijes and how are an important part of the mexican culture.
+Alebrijes are brightly colored Oaxacan-Mexican folk art sculptures of fantastical creatures. The first alebrijes, along with use of the term, originated with Pedro Linares. In the 1930s, Linares fell very ill and while he was in bed, unconscious, Linares dreamt of a strange place resembling a forest.</description>
+    </item>
+    
+    <item>
+      <title>Artisans Post</title>
+      <link>http://example.org/post/artisans-post/</link>
+      <pubDate>Tue, 05 Apr 2022 20:49:08 -0500</pubDate>
+      
+      <guid>http://example.org/post/artisans-post/</guid>
+      <description>Artissans are the essential part in the mexican culture, they elaborate art with their own hans. In this case alebrijes are not the exception.
+This traditional Gazelle Alebrije will make a beautiful accent in any part of your home. The wings, tail, ears, and horns disassemble for ease of shipping.
+Alebrijes are spiritual guides that help us in our time of need. Each Alberije is hand-carved from Copal wood and later handpainted by Artisans from Oaxaca.</description>
+    </item>
+    
+  </channel>
+</rss>
